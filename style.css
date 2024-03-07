@@ -1,0 +1,134 @@
+body{
+    background-color: rgb(253, 242, 231);
+    padding: 100px;
+}
+
+form{
+
+
+    padding: 100px;
+    overflow: hidden;
+    background-color: rgb(251, 249, 247);
+    font-size: larger;
+}
+
+
+
+
+.navigate{
+
+    display: flex;
+    border: solid rgb(248, 239, 239);
+    border-radius: 10px;
+
+    
+
+}
+.woords{
+display: flex;
+justify-content: space-between;
+margin: auto;
+width: 70%;
+gap: 70px;
+
+}
+
+button{
+    width: 160px;
+    padding: 14px;
+    border-radius: 60px;
+    background-color:rgb(39, 180, 236);
+color: white;
+border: solid;
+}
+.wipe{
+    border-radius: 100px;
+    padding-left: 20px;
+}
+.merge{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    align-items: center;
+    border: solid rgb(248, 239, 239);
+    border-radius: 10px;
+
+
+    
+}
+.mess{
+    display: flex;
+    border: solid rgb(248, 239, 239);
+    border-radius: 10px;
+
+
+
+}
+
+.solutions{
+    width: 60%;
+}
+.second{
+    display: flex;
+    border: solid rgb(248, 239, 239);
+    border-radius: 10px;
+
+
+}
+.circle{
+    width: 60%;
+}
+
+.press{
+    color: blue;
+}
+.figure{
+    display: flex;
+    justify-content: space-evenly;
+    border: solid rgb(248, 239, 239);
+    border-radius: 10px;
+
+
+}
+.admin{
+    display: flex;
+    border: solid rgb(248, 239, 239);
+    border-radius: 10px;
+
+
+}
+
+
+.cleanerr{
+    display: flex;
+}
+.india{
+    display: flex;
+
+}
+
+.design{
+    display: flex;
+}
+
+
+.star{
+    display: flex;
+    text-align: center;
+    padding: 80px;
+    border: solid rgb(248, 239, 239);
+    border-radius: 10px;
+
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    border: solid rgb(248, 239, 239);
+    border-radius: 10px;
+
+
+}
+
+
+@media all and (max-Width: 500px){
+    body{}
+}
